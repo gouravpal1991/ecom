@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.ecommerce.android.R;
+import com.ecommerce.android.signup.SignUpActivity;
 
 public class LoginActivity extends AppCompatActivity {
 
